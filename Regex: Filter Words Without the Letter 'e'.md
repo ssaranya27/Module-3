@@ -14,6 +14,7 @@ To write a Python program that filters out and returns all elements from a list 
 5. Print the final filtered list.
 
 ## 🧾 Program
+```
 DEVELOPED BY: SARANYA S
 REGISTER NO:212223220101
 
@@ -24,6 +25,7 @@ REGISTER NO:212223220101
          if not re.search(r"e",i):
          l1.append(i)
       print(l1)
+```
 ## Output
 ![image](https://github.com/user-attachments/assets/626824d6-3660-470f-ac45-bcba6052fd64)
 
